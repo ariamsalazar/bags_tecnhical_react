@@ -4,7 +4,7 @@
 
 1. Go to react-test folder:
 ```bash
-cd my-app
+cd react-test
 ```
 
 2. Install dependencies:
