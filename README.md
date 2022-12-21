@@ -1,4 +1,4 @@
-# bags_tecnhical_react
+# Bags Technical Assignment by Ariam Salazar
 
 ## Run project
 
